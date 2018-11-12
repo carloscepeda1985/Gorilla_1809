@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Gorilla_1809", "Gorilla_1809\Gorilla_1809.vbproj", "{F72E641E-8C41-47E8-A2AB-9FB12FF2A49C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Gorilla_Setup", "Gorilla_Setup\Gorilla_Setup.vdproj", "{2BF90469-E0B9-45A3-9ECD-CE1BF0D13EA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F72E641E-8C41-47E8-A2AB-9FB12FF2A49C}.Debug|x86.ActiveCfg = Debug|x86
+		{F72E641E-8C41-47E8-A2AB-9FB12FF2A49C}.Debug|x86.Build.0 = Debug|x86
+		{F72E641E-8C41-47E8-A2AB-9FB12FF2A49C}.Release|x86.ActiveCfg = Release|x86
+		{F72E641E-8C41-47E8-A2AB-9FB12FF2A49C}.Release|x86.Build.0 = Release|x86
+		{2BF90469-E0B9-45A3-9ECD-CE1BF0D13EA4}.Debug|x86.ActiveCfg = Debug
+		{2BF90469-E0B9-45A3-9ECD-CE1BF0D13EA4}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
