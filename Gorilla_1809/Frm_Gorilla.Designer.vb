@@ -180,7 +180,7 @@ Partial Class Frm_Gorilla
         Me.LabelX1.Name = "LabelX1"
         Me.LabelX1.Size = New System.Drawing.Size(270, 68)
         Me.LabelX1.TabIndex = 891
-        Me.LabelX1.Text = "Ingrese Rut"
+        Me.LabelX1.Text = "Ingrese Rut "
         '
         'txt_rut
         '
